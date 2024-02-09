@@ -65,10 +65,10 @@ All stations in the Chiagrai River real-time data mark color Can click station a
     
 
 ## Members
-6431503033 NARTNAPAT TANTEE
-6431503047 MAYPREEYA PHATTHARASAKSIRIKUN
-6431503110 APHITCHAYA CHARUNPHAK
-6431503111 ATTIDMESE BUNSUA
+- 6431503033 NARTNAPAT TANTEE
+- 6431503047 MAYPREEYA PHATTHARASAKSIRIKUN
+- 6431503110 APHITCHAYA CHARUNPHAK
+- 6431503111 ATTIDMESE BUNSUA
 
 ## Instruction
 You need to create skeleton of your project's development. It does not necessary include the complete source code. Please follow instructions below:
